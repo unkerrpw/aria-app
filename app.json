@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ARIA",
+    "slug": "aria-assistant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#06090f"
+    },
+    "android": {
+      "package": "com.aria.assistant",
+      "adaptiveIcon": {
+        "backgroundColor": "#06090f"
+      },
+      "permissions": [
+        "RECORD_AUDIO",
+        "INTERNET"
+      ]
+    }
+  }
+}
